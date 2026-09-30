@@ -8,7 +8,7 @@
 ## Author: Wormdirt
 ## Version: 3.6.0
 ## SavedVariables: WormFactsDB
-## IconTexture: Interface\Icons\INV_Misc_MonsterHead_02
+## IconTexture: Interface\Icons\Ability_Hunter_Pet_Worm
 
 Data\Facts.lua
 WormFacts.lua

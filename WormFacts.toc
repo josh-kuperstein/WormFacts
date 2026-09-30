@@ -1,0 +1,15 @@
+## Interface: 16016, 16001, 16000
+## X-Interface-Note: Forever is versioned 1.60.x (Classic lineage) but runs the
+## Mainline 12.1.x API surface. The TOC number tracks the CLIENT VERSION, which
+## GetInterfaceVersion formats as %d%02d%02d -- so 1.60.1 is 16001, 1.60.16 is
+## 16016. Confirm your build with: /dump select(4, GetBuildInfo())
+## Title: Worm Facts
+## Notes: Answers unsolicited summon requests with a complimentary worm fact.
+## Author: Wormdirt
+## Version: 3.6.0
+## SavedVariables: WormFactsDB
+## IconTexture: Interface\Icons\INV_Misc_MonsterHead_02
+
+Data\Facts.lua
+WormFacts.lua
+Config.lua
